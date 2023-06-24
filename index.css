@@ -36,11 +36,11 @@ body {
   overflow: hidden;
 }
 
-.gradient {
+/* .gradient {
   background: #ece9e6;
   background: -webkit-linear-gradient(to right, #ece9e6, #ffffff);
   background: linear-gradient(to right, #ece9e6, #ffffff);
-}
+} */
 
 .transparent {
   background: none transparent !important;
